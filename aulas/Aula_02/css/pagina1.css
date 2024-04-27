@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&display=swap');
+h1 {
+    text-align: center;
+    font-family: "Jacquard 24", system-ui;
+
+}    
+
+img {
+    width: 700px;
+    height: 500px;
+   /* codigo para centralizar imagem*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 30px;
+    width: 150px;
+    border: none; /* none = nenhuma*/
+    border-radius: 10px;
+    cursor: pointer;/* muda*/
+    background:linear-gradient(#33355f, #69407b, #b45696);
+    transition: .5s ease-in-out ;
+}
+
+button :hover{
+    background: linear-gradient(#ff7cb1);
+    text-decoration: none;
+}
+
+button a{
+  color: white;
+}
+
+button  a:hover{
+  color: pink;
+}
