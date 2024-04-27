@@ -1,0 +1,4 @@
+C:\Users\IFSP\Documents\desenvolvimento web\obj\Debug\net8.0\desenvolvimento web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\desenvolvimento web\obj\Debug\net8.0\desenvolvimento web.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\desenvolvimento web\obj\Debug\net8.0\desenvolvimento web.AssemblyInfo.cs
+C:\Users\IFSP\Documents\desenvolvimento web\obj\Debug\net8.0\desenvolvimento web.csproj.CoreCompileInputs.cache
