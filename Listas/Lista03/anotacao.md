@@ -1,16 +1,17 @@
 Crie uma loja virtual que atenda os seguintes requisitos obrigatórios:
 ● Escolha o nome da sua loja                                                                   | ok
-● Escolha as imagens dos produtos que irá divulgar                                                                  
-● Coloque nome e descrição em todos
-● Crie um menu para sua loja
-● Coloque cor de fundo no seu site
-● Coloque uma fonte para o menu
-● Coloque uma fonte para o nome dos produtos
+● Escolha as imagens dos produtos que ira divulgar                                             | ok
+● Coloque nome e descrição em todos                                                            | ok
+● Crie um menu para sua loja                                                                   | ok
+● Coloque cor de fundo no seu site                                                             | ok    
+● Coloque uma fonte para o menu                                                                | ok
+● Coloque uma fonte para o nome dos produtos                                                   | ok
 ● Coloque uma fonte para a descrição e preço dos produtos
 ● O menu deve ter um hover que aumente em 2px o tamanho, deve ter uma transição
 (transition)
 ● Os botões de detalhes e comprar devem ter um hover para trocar a cor de fundo e
 uma transição (transition)
+
 Links úteis:
 CSS Palete: https://mybrandnewlogo.com/pt/gerador-de-paleta-de-cores
 Google fonts: https://fonts.google.com/
