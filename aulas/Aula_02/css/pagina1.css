@@ -23,7 +23,7 @@ p {
 }
 
 button{
-    display: block;
+    display: block;     /*centraliza*/
     margin-left: auto;
     margin-right: auto;
 
