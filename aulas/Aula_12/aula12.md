@@ -11,3 +11,4 @@
     Cliente                  -      client
     Requisição/Solicitação   -      Request
     Resposta                 -      Response 
+    ARQUITETURA CLIENTE X SERVIDOR
