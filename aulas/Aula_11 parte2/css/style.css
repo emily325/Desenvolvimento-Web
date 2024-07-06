@@ -1,0 +1,25 @@
+@import url('../css/reset.css');
+
+.elefante {
+    width: 300px;
+    height: 250px;
+    border-radius: 50% ;
+    animation: animacao-imagem 4s linear infinite;
+    transition: 1s;
+}
+
+.anima-botao {
+    animation: anima-botao;
+}
+@keyframes animacao-imagem {
+    0%{
+        transform: rotate(360deg);
+        filter: hue-rotate(900deg);
+    }50%{
+        width: 0px;
+        height: 0px;
+    }100%{
+        width: 200px;
+        height: 200px;
+    }
+}
