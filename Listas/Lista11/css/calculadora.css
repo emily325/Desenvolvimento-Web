@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 246, 246);
+}
+
+button {
+   border-radius: 5px;
+}
+
+#calculadora {
+    text-align: center;
+    border: 1 px solid black;
+}
